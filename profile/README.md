@@ -1,4 +1,4 @@
-# NFQ-Santalucia
+# Nfq-Santalucia
 
 Architecture enablement tooling and automation for Nfq consultants working on the Santalucia engagement.
 
